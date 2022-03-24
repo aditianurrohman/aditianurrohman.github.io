@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #e2edff;
+}
+#contact {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+h2 {
+  font-size: 40px;
+}
+p.textcontact a {
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+}
